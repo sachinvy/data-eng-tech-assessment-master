@@ -1,0 +1,14 @@
+*.jar
+*.db
+.minio.sys/
+.env
+streets-data/
+source-data/pedestrian/
+source-data/*.json
+source-data/*.csv
+source-data/*.xls
+source-data/*.xlsx
+wip/
+.idea
+pipeline/target/*
+pipeline/.idea
